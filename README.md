@@ -1,4 +1,4 @@
-# sign-language-recognization
+# sign-language-recognition
 ##  Project Structure
 
 
