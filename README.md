@@ -2,18 +2,18 @@
 ##  Project Structure
 
 
-├── Collect.py          # For collecting ASL sign images(one hande guestures)
-├── Collect2.py         # For collecting ISL sign images(two hande guestures)
-├── test.py             # For testing ASL recognition
-├── test2.py            # For testing ISL recognition
-├── Model(asl)/         # Trained model & labels for ASL
-│   ├── keras_model1.h5
-│   └── labels1.txt
-├── Model(isl)/         # Trained model & labels for ISL
-│   ├── keras_model.h5
-│   └── labels.txt
-├── Data(asl)/          # ASL dataset folder
-├── Data(isl)/          # ISL dataset folder
+├── Collect.py # For collecting ASL sign images (one hand gestures)
+├── Collect2.py # For collecting ISL sign images (two hand gestures)
+├── test.py # For testing ASL recognition
+├── test2.py # For testing ISL recognition
+├── Model(asl)/ # Trained model & labels for ASL
+│ ├── keras_model1.h5
+│ └── labels1.txt
+├── Model(isl)/ # Trained model & labels for ISL
+│ ├── keras_model.h5
+│ └── labels.txt
+├── Data(asl)/ # ASL dataset folder
+├── Data(isl)/ # ISL dataset folder
 
 ## Dataset & Model Training
 
